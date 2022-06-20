@@ -20,7 +20,7 @@ li{
     background-color: rgb(78, 78, 138);
 }
 li:hover{
-    background-color: rgb(53, 53, 94);
+    background-color: rgb(56, 56, 78);
 }
 .main_menu{
     color: white;
@@ -28,4 +28,9 @@ li:hover{
     margin-right: 10px;
     margin-left: 10px;
     text-align: center;
+}
+
+#star_can{
+    display: flex;
+    justify-content: center;
 }
